@@ -4,13 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CsharpAlgorithms
+namespace CsharpAlgorithms.SortAlgorithms
 {
     public class InsertionSort
     {
-        public int[] SortArray(int[] array, int length)
+        public int[] InsertionSortArray(int[] array)
         {
-            for (int i = 1; i < length; i++)
+            for (int i = 0; i < array.Length; i++)
             {
                 var key = array[i];
                 var flag = 0;

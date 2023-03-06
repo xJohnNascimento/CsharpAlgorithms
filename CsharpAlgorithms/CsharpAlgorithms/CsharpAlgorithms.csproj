@@ -7,4 +7,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Exercises\Medium\" />
+    <Folder Include="Exercises\Hard\" />
+  </ItemGroup>
+
 </Project>
