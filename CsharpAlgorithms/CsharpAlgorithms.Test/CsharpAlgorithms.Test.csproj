@@ -25,8 +25,4 @@
     <ProjectReference Include="..\CsharpAlgorithms\CsharpAlgorithms.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Exercises\" />
-  </ItemGroup>
-
 </Project>
