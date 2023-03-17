@@ -22,7 +22,7 @@ namespace CsharpAlgorithms.Exercises.Easy
 
             for(int i = 0; i < strs.Length; i++)
             {
-                if (strs[i] == string.Empty || strs[i].Length - 1 < currentLetter)
+                if (strs[i].Length - 1 < currentLetter)
                 {
                     break;
                 }
