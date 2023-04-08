@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CsharpAlgorithms.Test.Exercises
+namespace CsharpAlgorithms.Test.Exercises.Easy
 {
     public class LongestCommonPrefixTest
     {

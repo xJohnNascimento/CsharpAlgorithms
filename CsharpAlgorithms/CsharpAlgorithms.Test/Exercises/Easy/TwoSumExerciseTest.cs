@@ -1,6 +1,6 @@
 ﻿using CsharpAlgorithms.Exercises.Easy;
 
-namespace CsharpAlgorithms.Test.Exercises
+namespace CsharpAlgorithms.Test.Exercises.Easy
 {
     public class TwoSumExerciseTest
     {
