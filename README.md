@@ -1,1 +1,1 @@
-# Csharp-Algorithms
+# Algorithms Exercises
